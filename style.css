@@ -1,0 +1,140 @@
+
+        body {
+            background-color: rgb(146, 57, 206);
+        }
+
+        h1 {
+            color: white;
+            font-style: italic;
+            font-family: sans-serif;
+            font-size: 50px;
+            font-weight: bold;
+            top: 10px;
+            margin-right:  17%;
+            text-shadow: 2px 2px 5px black;
+        }
+
+        h2 {
+            color: white;
+
+            font-family: sans-serif;
+            font-size: 50px;
+            font-weight: bold;
+            text-underline-position: below;
+            margin-right:  17%;
+            text-shadow: 2px 2px 5px black;
+            
+        }
+
+        #logo {
+            position: fixed;
+            top: 20px;
+            left: 50px;
+            opacity: 0.80;
+           width: 150px;
+            border: 2px solid black;
+        }
+
+        ul {
+            color: white;
+            font-style: italic;
+            font-family: sans-serif;
+            font-size: 40px;
+            font-weight: bold;
+            position: fixed;
+            display: inline-block
+        
+        }
+
+        h3 {
+            color:white;
+            font-style: italic;
+            font-family: sans-serif;
+            font-size: 50px;
+            font-weight: bold;
+            margin-right:  17%;
+            text-shadow: 2px 2px 5px black;
+        }
+
+        p {
+            color:white;
+            font-family: sans-serif;
+            font-size: 33px;
+            font-weight: bold;
+            text-shadow: 2px 0.01em rgb(129, 129, 129);
+            margin-right: 17%;
+            text-shadow: 2px 2px 5px black;
+
+        }
+
+        table {
+            border: solid;
+            margin-right:  17%;
+            text-shadow: 2px 2px 5px white;
+        }
+
+        table th {
+            text-align: right;
+            background-color: white;
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+            font-family: sans-serif;
+            border: 10px white;
+            padding: 10px 20px;
+        }
+
+        table td {
+            border: 10px white;
+            padding: 10px 20px;
+            font-weight: bold;
+            font-family: sans-serif;
+        }
+
+        table tr:nth-child(odd) td {
+            background-color: rgb(197, 197, 197);
+        }
+
+        #pic1 {
+            border: 2px solid white;
+            margin-right:  17%;
+            
+        }
+        #pic2 {
+            border: 2px solid white;
+            margin-right:  2%;
+            
+        }
+        #pic3 {
+            border: 2px solid white;
+            margin-right:  2%;
+            
+        }
+
+        #link {
+            font-size: 30px;
+            margin-right:  17%;
+        }
+        #vid1 {
+            border-style:dotted;
+            border-color: white;
+            margin-right: 25%;
+        }
+        #vid2 {
+            border-style:dotted;
+            border-color: white;
+            margin-right: 2%;
+        }
+        form{
+            color:white;
+            font-family: sans-serif;
+            font-size: 25px;
+            font-weight: bold;
+            text-shadow: 2px 0.01em rgb(129, 129, 129);
+            margin-right: 17%;
+            text-shadow: 2px 2px 5px black;
+            float:center;
+        }
+
+
+ 
+
